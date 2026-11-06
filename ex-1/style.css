@@ -39,3 +39,13 @@ h1{
   color: var(--branding-color);
   font-size: var(--size-3xl);
 }
+
+.introduction {
+  background-color: var(--secondary-color);
+  padding: var(--padding-level-5);
+}
+
+.introduction h1 {
+  color: var(--branding-color);
+  font-size: var(--font-size-xxxl);
+}
